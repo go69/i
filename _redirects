@@ -1,0 +1,2 @@
+/wp-includes/* https://cdn.statically.io/wp/c/latest/wp-includes/:splat
+/wp-content/themes/:a/:b https://cdn.statically.io/wp/t/:a/latest/:b
