@@ -2,4 +2,5 @@
   Referrer-Policy: no-referrer
   access-control-allow-origin: *
   timing-allow-origin: *
-  
+  cross-origin-resource-policy: cross-origin
+  Access-Control-Expose-Headers: *
