@@ -1,3 +1,3 @@
-/wp-includes/* https://cdn.statically.io/wp/c/latest/wp-includes/:splat
-/wp-content/themes/:a/* https://cdn.statically.io/wp/t/:a/latest/:splat
- /wp-content/plugins/:b/* https://cdn.statically.io/wp/p/:b/latest/:splat
+/wp-includes/* https://cdn.jsdelivr.net/gh/WordPress/WordPress@master/wp-includes/:splat
+/wp-content/themes/:t/* ver=:ver https://cdn.jsdelivr.net/wp/themes/:t/:ver/:splat
+/wp-content/plugins/:p/* https://cdn.jsdelivr.net/wp/plugins/:p/trunk/:splat
